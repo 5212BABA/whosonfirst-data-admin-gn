@@ -6,21 +6,21 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-10.2,11.73333,-10.2,11.73333",
+    "geom:bbox":"-10.18,11.73333,-10.18,11.73333",
     "geom:latitude":11.73333,
-    "geom:longitude":-10.2,
+    "geom:longitude":-10.18,
     "gn:admin1_code":"K",
     "gn:admin2_code":"07",
-    "gn:asciiname":"Tomba Dougoula",
+    "gn:asciiname":"Tomba kanssa",
     "gn:country_code":"GN",
     "gn:dem":403,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
+    "gn:feature_class":"A",
+    "gn:feature_code":"ADM3",
     "gn:geonameid":2414641,
     "gn:latitude":11.73333,
     "gn:longitude":-10.2,
-    "gn:modification_date":"2013-08-06",
-    "gn:name":"Tomba Dougoula",
+    "gn:modification_date":"2023-12-07",
+    "gn:name":"Tomba kanssa",
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
@@ -31,7 +31,7 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_variant":[
-        "Tomba Dougoula"
+        "Tomba Kansa" 
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -10.2,
+    -10.18,
     11.73333,
-    -10.2,
+    -10.18,
     11.73333
 ],
-  "geometry": {"coordinates":[-10.2,11.73333],"type":"Point"}
+  "geometry": {"coordinates":[-10.18,11.73333],"type":"Point"}
 }
